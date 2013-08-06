@@ -35,7 +35,10 @@
 # Passwörter
 
 
-## Warum kompliziert nicht immer besser ist.
+# 1Password, Keepass, OS X Schlüsselbund, Seahorse
+
+
+## Nur ein langes Passwort ist ein gutes Passwort
 
 
 
@@ -138,7 +141,7 @@
 ## Verschlüsselt über Facebook chatten
 
 
-## Hands on
+## Und jetzt ihr!
 * jabber.ccc.de
 
 * http://adium.im/
@@ -147,14 +150,18 @@
 
 
 
-# Mail-
+# E-Mail-
 # verschlüsselung
 
 
 ## Einführung in<br>Crypto-Verfahren
 
 
+## Privater Schlüssel vs. öffentlicher Schlüssel
+
+
 ## Thunderbird + Enigmail
+Bitte installieren
 
 
 ## Generieren<br>von Schlüsseln
@@ -182,9 +189,6 @@
 <img src="img/key_submenu.png">
 
 
-## Hands on
-
-
 ## Web-Of-Trust
 
 
@@ -195,10 +199,13 @@
 # Über Smartphones und Tablets
 
 
-## Devices sind unsicher
+## Geräte sind unsicher
 
 
-## Lasst es lieber bleiben
+## OTR ist in Ordnung
+
+
+## PGP/GPG würden wir nicht machen
 
 
 
@@ -209,7 +216,8 @@
 # Danke!
 http://cryptoparty-hamburg.de<br />
 http://hamburg.ccc.de<br />
-
+hallo@cryptoparty-hamburg.de<br />
+Fingerprint: 39C5 1E52 51C6 856E 3062 DA72 8D5F 7E7C B960 EC68
 
 
 # Fragen und Antworten
