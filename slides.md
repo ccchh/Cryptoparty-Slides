@@ -9,7 +9,6 @@
 * Festplattenverschlüsselung
 * Chatverschlüsselung
 * Mailverschlüsselung
-* Webbrowsing (SSL)
 * Über Smartphones und Tablets
 * Fragen und Antworten
 
@@ -20,8 +19,9 @@
 
 
 # Warum das Ganze?
-<h2>sadjfskadjf</h2>
-<code><?php echo "foo" ?></code>
+
+
+## Darum!
 
 
 
@@ -184,11 +184,10 @@
 ## Hands on
 
 
+## Web-Of-Trust
+
+
 ## Key-Signing/Trust-Level
-
-
-## Web-of-thrust
-
 
 
 
@@ -204,3 +203,13 @@
 
 
 # Fragen und Antworten
+
+
+
+# Follow the <br>White Rabbit
+
+
+
+# Danke!
+http://cryptoparty-hamburg.de<br />
+http://hamburg.ccc.de<br />
