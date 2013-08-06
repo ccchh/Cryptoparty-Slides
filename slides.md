@@ -142,7 +142,8 @@
 * jabber.ccc.de
 
 * http://adium.im/
-* 
+* http://www.pidgin.im/
+  * http://www.cypherpunks.ca/otr/
 
 
 # Mail-
