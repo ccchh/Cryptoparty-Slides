@@ -202,11 +202,6 @@
 
 
 
-
-# Fragen und Antworten
-
-
-
 <a href="http://ariesnamarie.deviantart.com/art/Follow-the-White-Rabbit-338132499"><img src="img/follow_the_white_rabbit_by_ariesnamarie-d5lbcpf.jpg" alt=""></a>
 
 
@@ -214,3 +209,7 @@
 # Danke!
 http://cryptoparty-hamburg.de<br />
 http://hamburg.ccc.de<br />
+
+
+
+# Fragen und Antworten
