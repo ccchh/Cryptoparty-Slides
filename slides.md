@@ -35,11 +35,27 @@
 ## Wie funktioniert das Ganze?
 
 
+<img src="img/internet.png">
+
+
+<img src="img/wolke.png">
+
+
 
 # Passwörter
 
 
 ## Nur ein langes Passwort ist ein gutes Passwort
+
+
+### A-Z + a-z (52 Zeichen)
+6 Zeichen: 20 Sekunden<br>
+10 Zeichen: 5 Jahre
+
+
+### A-Z + a-z + Sonderzeichen<br>(96 Zeichen)
+6 Zeichen: 13 Minuten<br>
+10 Zeichen: 2108 Jahre
 
 
 * 1Password
@@ -145,6 +161,7 @@
 Kann man z.B. Cryptkeeper oder Gnome Encfs Manager installieren
 
 
+
 # Chat-
 # verschlüsselung
 
@@ -158,11 +175,13 @@ Kann man z.B. Cryptkeeper oder Gnome Encfs Manager installieren
 
 
 ## Und jetzt ihr!
-* jabber.ccc.de
+* jabber.hamburg.ccc.de
 
-* http://adium.im/
-* http://www.pidgin.im/
-  * http://www.cypherpunks.ca/otr/
+* http://adium.im/  (Mac)
+* http://www.pidgin.im/  (Windows/Linux)
+  * http://www.cypherpunks.ca/otr/ <br>(OTR Plugin für Pidgin)
+* WLAN: betausOnSpeed
+* Passwort: betahaus10?
 
 
 
@@ -177,7 +196,11 @@ Kann man z.B. Cryptkeeper oder Gnome Encfs Manager installieren
 
 
 ## Thunderbird + Enigmail
-Bitte installieren
+Bitte installieren<br>
+* http://www.mozilla.org/de/thunderbird/
+* https://addons.mozilla.org/de/thunderbird/addon/enigmail/
+* Windows: http://files.gpg4win.org/gpg4win-vanilla-2.1.1.exe<br>
+* Mac: https://gpgtools.org/
 
 
 ## Generieren<br>von Schlüsseln
@@ -236,5 +259,10 @@ hallo@cryptoparty-hamburg.de<br />
 Fingerprint: 39C5 1E52 51C6 856E 3062 DA72 8D5F 7E7C B960 EC68
 
 
-# Fragen und Antworten
+# Links
+* http://cryptoparty-hamburg.de/slides/
+* https://www.awxcnx.de/download/privacy-handbuch.pdf
+* http://mirror-de.cryptoparty.is/handbook/
+* http://cryptoparty.in (Englisch)
+
 
