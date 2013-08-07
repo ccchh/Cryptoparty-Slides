@@ -130,11 +130,19 @@
 ### Muss bei der Installation eingeschaltet werden.
 
 
+<img src="img/Ubuntu_Install_03.png">
+
+
+<img src="img/Ubuntu_Install_04.png">
+
+
 ## Encfs (Linux/Mac)
 
 
 ### Kann auch nachträglich<br>Verzeichnisse verschlüsseln.
 
+
+Kann man z.B. Cryptkeeper oder Gnome Encfs Manager installieren
 
 
 # Chat-
@@ -230,7 +238,3 @@ Fingerprint: 39C5 1E52 51C6 856E 3062 DA72 8D5F 7E7C B960 EC68
 
 # Fragen und Antworten
 
-
-# Links
-Cryptoparty-Handbuch
-Privacy-Handbuch
