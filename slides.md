@@ -39,10 +39,14 @@
 # Passwörter
 
 
-# 1Password, Keepass, OS X Schlüsselbund, Seahorse
-
-
 ## Nur ein langes Passwort ist ein gutes Passwort
+
+
+* 1Password
+* Keepass
+* OS X Schlüsselbund
+* Seahorse
+* USB-Sticks
 
 
 
