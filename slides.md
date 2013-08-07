@@ -122,11 +122,19 @@
 ### Muss bei der Installation eingeschaltet werden.
 
 
+<img src="img/Ubuntu_Install_03.png">
+
+
+<img src="img/Ubuntu_Install_04.png">
+
+
 ## Encfs (Linux/Mac)
 
 
 ### Kann auch nachträglich<br>Verzeichnisse verschlüsseln.
 
+
+Kann man z.B. Cryptkeeper oder Gnome Encfs Manager installieren
 
 
 # Chat-
