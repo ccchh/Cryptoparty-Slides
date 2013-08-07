@@ -18,10 +18,25 @@
 > “Man is least himself when he talks in his own person. Give him a mask, and he will tell you the truth.” - Oscar Wilde
 
 
-# Warum das Ganze?
+## Einführung in die Nutzung kryptographischer Software
 
 
-## Darum!
+## Es gibt keine Silver Bullets!
+
+
+## Was wir heute lernen hilft **nicht** gegen die Preisgabe von Verbindungsdaten (aka Metadaten)
+
+
+## Krypto kann nur in sicheren Umgebungen funktionieren
+
+
+## Krypto kann nur das, wofür es gedacht ist
+
+
+## Nichts für Krypto benutzen, was nicht für Krypto gedacht ist
+
+
+## Es fehlt Software, es fehlt Usability, es fehlt der Support der Closed Source OSS-Vendor (siehe z.B. GPGMail)
 
 
 
@@ -221,3 +236,8 @@ Fingerprint: 39C5 1E52 51C6 856E 3062 DA72 8D5F 7E7C B960 EC68
 
 
 # Fragen und Antworten
+
+
+# Links
+Cryptoparty-Handbuch
+Privacy-Handbuch
