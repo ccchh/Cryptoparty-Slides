@@ -18,25 +18,14 @@
 > “Man is least himself when he talks in his own person. Give him a mask, and he will tell you the truth.” - Oscar Wilde
 
 
-## Einführung in die Nutzung kryptographischer Software
-
-
-## Es gibt keine Silver Bullets!
-
-
-## Was wir heute lernen hilft **nicht** gegen die Preisgabe von Verbindungsdaten (aka Metadaten)
-
-
-## Krypto kann nur in sicheren Umgebungen funktionieren
-
-
-## Krypto kann nur das, wofür es gedacht ist
-
-
-## Nichts für Krypto benutzen, was nicht für Krypto gedacht ist
-
-
-## Es fehlt Software, es fehlt Usability, es fehlt der Support der Closed Source OSS-Vendor (siehe z.B. GPGMail)
+### Einführung in die Nutzung kryptographischer Software
+* Es gibt keine Silver Bullets!
+* Was wir heute lernen hilft **nicht** gegen die Preisgabe von Verbindungsdaten (aka Metadaten)
+* Krypto kann nur in sicheren Umgebungen funktionieren
+* Krypto kann nur das, wofür es gedacht ist
+* Nichts für Krypto benutzen, was nicht für Krypto gedacht ist
+* Es fehlt Software, es fehlt Usability
+* Es fehlt der Support der Closed Source OSS-Vendor (siehe z.B. GPGMail)
 
 
 
