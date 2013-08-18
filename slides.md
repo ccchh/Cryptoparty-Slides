@@ -203,6 +203,9 @@ Bitte installieren<br>
 * Mac: https://gpgtools.org/
 
 
+<img src="img/Thunderbird+Enigmail+GnuPG.png">
+
+
 ## Generieren<br>von Schlüsseln
 <br>OpenPGP > Schlüssel verwalten ... <br> Erzeugen > Neues Schlüsselpaar ...
 
