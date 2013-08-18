@@ -1,4 +1,4 @@
-# Cryptoparty<br/> Hamburg
+# Cryptoparty<br/> Flensburg
 
 
 
