@@ -1,7 +1,7 @@
-# http://cryptoparty-hamburg.de/slides/
+http://cryptoparty-hamburg.de/slides/
 
 
-# Cryptoparty<br/> Flensburg
+# Cryptoparty<br/> Hamburg
 
 
 
@@ -22,13 +22,24 @@
 
 
 ### Einführung in die Nutzung kryptographischer Software
-* Es gibt keine Silver Bullets!
-* Was wir heute lernen hilft **nicht** gegen die Preisgabe von Verbindungsdaten (aka Metadaten)
-* Krypto kann nur in sicheren Umgebungen funktionieren
-* Krypto kann nur das, wofür es gedacht ist
-* Nichts für Krypto benutzen, was nicht für Krypto gedacht ist
-* Es fehlt Software, es fehlt Usability
-* Es fehlt der Support der Closed Source OSS-Vendor (siehe z.B. GPGMail)
+
+
+### Es gibt keine Silver Bullets!
+
+
+### Was wir heute lernen hilft **nicht** gegen die Preisgabe von Verbindungsdaten (aka Metadaten)
+
+
+### Krypto kann nur in sicheren Umgebungen funktionieren
+
+
+### Krypto kann nur das, wofür es gedacht ist
+
+
+### Es fehlt Software, es fehlt Usability
+
+
+### Es fehlt der Support<br>der Closed Source<br>OSS-Vendor<br>(siehe z.B. GPGMail)
 
 
 
@@ -51,12 +62,12 @@
 ## Nur ein langes Passwort ist ein gutes Passwort
 
 
-### A-Z + a-z (52 Zeichen)
+<span style="font-size:60px;">A-Z + a-z (52 Zeichen)</span><br>
 6 Zeichen: 20 Sekunden<br>
 10 Zeichen: 5 Jahre
 
 
-### A-Z + a-z + Sonderzeichen<br>(96 Zeichen)
+<span style="font-size:60px;">A-Z + a-z + Sonderzeichen <br>(96 Zeichen)</span><br>
 6 Zeichen: 13 Minuten<br>
 10 Zeichen: 2108 Jahre
 
@@ -178,12 +189,11 @@ Kann man z.B. Cryptkeeper oder Gnome Encfs Manager installieren
 
 
 ## Und jetzt ihr!
-* jabber.hamburg.ccc.de
-
 * http://adium.im/  (Mac)
 * http://www.pidgin.im/  (Windows/Linux)
   * http://www.cypherpunks.ca/otr/ <br>(OTR Plugin für Pidgin)
-* WLAN: betausOnSpeed
+* jabber.hamburg.ccc.de <br>(Account im Programm registrieren)<br><br>
+* WLAN: betahausOnSpeed
 * Passwort: betahaus10?
 
 
@@ -257,14 +267,6 @@ Bitte installieren<br>
 <a href="http://ariesnamarie.deviantart.com/art/Follow-the-White-Rabbit-338132499"><img src="img/follow_the_white_rabbit_by_ariesnamarie-d5lbcpf.jpg" alt=""></a>
 
 
-
-# Danke!
-http://cryptoparty-hamburg.de<br />
-http://hamburg.ccc.de<br />
-hallo@cryptoparty-hamburg.de<br />
-Fingerprint: 39C5 1E52 51C6 856E 3062 DA72 8D5F 7E7C B960 EC68
-
-
 # Links
 * http://cryptoparty-hamburg.de/slides/
 * https://www.awxcnx.de/download/privacy-handbuch.pdf
@@ -272,3 +274,12 @@ Fingerprint: 39C5 1E52 51C6 856E 3062 DA72 8D5F 7E7C B960 EC68
 * http://cryptoparty.in (Englisch)
 
 
+Diese Cryptoparty wurde von der Wau-Holland-Stiftung finanziell unterstützt.
+Spenden sind gern gesehen.
+
+
+# Danke!
+http://cryptoparty-hamburg.de<br />
+http://hamburg.ccc.de<br /><br />
+hallo@cryptoparty-hamburg.de<br />
+Fingerprint: 39C5 1E52 51C6 856E<br>3062 DA72 8D5F 7E7C B960 EC68
