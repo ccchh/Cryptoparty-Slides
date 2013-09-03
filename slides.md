@@ -226,10 +226,10 @@ Bitte installieren<br>
 <br>OpenPGP > Schlüssel verwalten ... <br> Erzeugen > Neues Schlüsselpaar ...
 
 
-<img src="img/key1.png">
-
-
 <img src="img/key2.png">
+
+
+<img src="img/key1.png">
 
 
 <img src="img/key3.png">
