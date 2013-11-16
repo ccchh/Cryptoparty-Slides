@@ -1,7 +1,7 @@
 http://cryptoparty-hamburg.de/slides/<br /><br />
 Download: http://cryptoparty-hamburg.de/download<br /><br />
-WLAN: betahausOnSpeed<br />
-Passwort: betahaus10?
+WLAN: makerhub<br />
+Passwort: mak3rhu3
 
 
 # Cryptoparty<br/> Hamburg
