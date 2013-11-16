@@ -1,7 +1,7 @@
 http://cryptoparty-hamburg.de/slides/<br /><br />
 Download: http://cryptoparty-hamburg.de/download<br /><br />
-WLAN: betahausOnSpeed<br />
-Passwort: betahaus10?
+WLAN: Makerhub<br />
+Passwort: mak3rhu3
 
 
 # Cryptoparty<br/> Hamburg
@@ -196,8 +196,8 @@ Kann man z.B. Cryptkeeper oder Gnome Encfs Manager installieren
 * http://www.pidgin.im/  (Windows/Linux)
   * http://www.cypherpunks.ca/otr/ <br>(OTR Plugin für Pidgin)
 * jabber.hamburg.ccc.de <br>(Account im Programm registrieren)<br><br>
-* WLAN: betahausOnSpeed
-* Passwort: betahaus10?
+* WLAN: Makerhub
+* Passwort: mak3rhu3
 
 
 
