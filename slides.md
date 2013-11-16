@@ -272,7 +272,7 @@ Bitte installieren<br>
 
 # Links
 * http://cryptoparty-hamburg.de/slides/
-* https://www.awxcnx.de/download/privacy-handbuch.pdf
+* http://cybererrorism.noblogs.org/files/2013/06/privacy-handbuch.pdf
 * http://mirror-de.cryptoparty.is/handbook/
 * http://cryptoparty.in (Englisch)
 
