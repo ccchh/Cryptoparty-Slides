@@ -1,8 +1,8 @@
 http://cryptoparty-hamburg.de/slides/<br /><br />
 Download: http://cryptoparty-hamburg.de/download<br /><br />
 
-WLAN: makerhub<br />
-Passwort: mak3rhu3
+WLAN: xxxxxxxx<br />
+Passwort: xxxxxxxx
 
 
 # Cryptoparty<br/> Hamburg
