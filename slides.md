@@ -39,6 +39,11 @@ Passwort: mak3rhu3
 
 ### Krypto kann nur das, wofür es gedacht ist
 
+* Vertraulichkeit<br>Nur die Empfänger können die Nachricht lesen
+* Beglaubigung<br>Die Empfänger können sicherstellen, dass die Nachricht wirklich vom Sender kommt
+* Abstreitbarkeit<br>Nach der Konversation ist die Beglaubigung nichtig
+* Folgenlosigkeit<br>Wenn einem der Gesprächspartner der Schlüssel verloren geht, hat dies keine Konsequenzen für die bereits verschlüsselt geführten Konversationen
+
 
 ### Es fehlt Software, es fehlt Usability
 
@@ -105,7 +110,7 @@ Passwort: mak3rhu3
 
 
 <img src="img/tc5.png" alt="" />
-
+a
 
 <img src="img/tc6.png" alt="" />
 
@@ -189,6 +194,13 @@ Kann man z.B. Cryptkeeper oder Gnome Encfs Manager installieren
 * Adium (Mac)
 
 
+## bietet
+* Vertraulichkeit
+* Beglaubigung
+* Abstreitbarkeit
+* Folgenlosigkeit
+
+
 ## Verschlüsselt über Facebook chatten
 
 
@@ -199,6 +211,13 @@ Kann man z.B. Cryptkeeper oder Gnome Encfs Manager installieren
 * jabber.hamburg.ccc.de <br>(Account im Programm registrieren)<br><br>
 * WLAN: Makerhub
 * Passwort: mak3rhu3
+
+
+
+
+# Pause
+### weiter geht es in 30 Minuten
+
 
 
 
@@ -221,6 +240,16 @@ Bitte installieren<br>
 
 
 <img src="img/Thunderbird+Enigmail+GnuPG.png">
+
+
+## bietet
+* Vertraulichkeit
+* Beglaubigung
+
+
+## bietet nicht
+* Abstreitbarkeit
+* Folgenlosigkeit
 
 
 ## Generieren<br>von Schlüsseln
