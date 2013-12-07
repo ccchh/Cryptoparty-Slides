@@ -110,7 +110,7 @@ Passwort: mak3rhu3
 
 
 <img src="img/tc5.png" alt="" />
-a
+
 
 <img src="img/tc6.png" alt="" />
 
@@ -298,6 +298,15 @@ Bitte installieren<br>
 
 
 <a href="http://ariesnamarie.deviantart.com/art/Follow-the-White-Rabbit-338132499"><img src="img/follow_the_white_rabbit_by_ariesnamarie-d5lbcpf.jpg" alt=""></a>
+
+
+# 30. Chaos Communication Congress
+
+### ~6000 Besucher
+### 27. bis 30.12.
+### Tickets an der Abendkasse erhältlich (15€/Tag, 80€/4 Tage)
+
+### https://events.ccc.de/
 
 
 # Links
