@@ -209,8 +209,8 @@ Kann man z.B. Cryptkeeper oder Gnome Encfs Manager installieren
 * http://www.pidgin.im/  (Windows/Linux)
   * http://www.cypherpunks.ca/otr/ <br>(OTR Plugin für Pidgin)
 * jabber.hamburg.ccc.de <br>(Account im Programm registrieren)<br><br>
-* WLAN: Makerhub
-* Passwort: mak3rhu3
+* WLAN: xxxxxx
+* Passwort: xxxxxx
 
 
 
