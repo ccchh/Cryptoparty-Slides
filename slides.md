@@ -25,19 +25,13 @@ Passwort: xxxxxxxx
 > “Man is least himself when he talks in his own person. Give him a mask, and he will tell you the truth.” - Oscar Wilde
 
 
-### Einführung in die Nutzung kryptographischer Software
-
-
-### Es gibt keine Silver Bullets!
+### Einführung in die Anwendung von verschlüsselter Software
 
 
 ### Was wir heute lernen hilft **nicht** gegen die Preisgabe von Verbindungsdaten (aka Metadaten)
 
 
-### Krypto kann nur in sicheren Umgebungen funktionieren
-
-
-### Krypto kann nur das, wofür es gedacht ist
+### Kriterien für Verschlüsselungssoftware
 
 * Vertraulichkeit<br>Nur die Empfänger können die Nachricht lesen
 * Beglaubigung<br>Die Empfänger können sicherstellen, dass die Nachricht wirklich vom Sender kommt
@@ -45,11 +39,13 @@ Passwort: xxxxxxxx
 * Folgenlosigkeit<br>Wenn einem der Gesprächspartner der Schlüssel verloren geht, hat dies keine Konsequenzen für die bereits verschlüsselt geführten Konversationen
 
 
-### Es fehlt Software, es fehlt Usability
+### 100% Sicherheit gibt es nicht
 
 
-### Es fehlt der Support<br>der Closed Source<br>OSS-Vendor<br>(siehe z.B. GPGMail)
+### Es fehlt Software, Benutzbarkeit ist mangelhaft
 
+
+### Es fehlt die Unterstützung durch die großen Unternehmen
 
 
 # Das Internet
@@ -81,12 +77,11 @@ Passwort: xxxxxxxx
 10 Zeichen: 2108 Jahre
 
 
-* 1Password
-* Keepass
-* OS X Schlüsselbund
-* Seahorse
-* USB-Sticks
-
+* 1Password (Mac)
+* Keepass (Mac, Win, Linux)
+* OS X Schlüsselbund (Mac)
+* Seahorse (Linux)
+* USB-Sticks 
 
 
 # Festplatten-
@@ -208,17 +203,12 @@ Kann man z.B. Cryptkeeper oder Gnome Encfs Manager installieren
 * http://adium.im/  (Mac)
 * http://www.pidgin.im/  (Windows/Linux)
   * http://www.cypherpunks.ca/otr/ <br>(OTR Plugin für Pidgin)
-* jabber.hamburg.ccc.de <br>(Account im Programm registrieren)<br><br>
+* jabber.hamburg.ccc.de
+* jabber.itpunks.net
+* jabber.chaos.li
+* jabber.gabbler.net
 * WLAN: xxxxxx
 * Passwort: xxxxxx
-
-
-
-
-# Pause
-### weiter geht es in 30 Minuten
-
-
 
 
 # E-Mail-
@@ -231,6 +221,9 @@ Kann man z.B. Cryptkeeper oder Gnome Encfs Manager installieren
 ## Privater Schlüssel vs. öffentlicher Schlüssel
 
 
+<img src="img/Thunderbird+Enigmail+GnuPG.png">
+
+
 ## Thunderbird + Enigmail
 Bitte installieren<br>
 * http://www.mozilla.org/de/thunderbird/
@@ -239,13 +232,12 @@ Bitte installieren<br>
 * Mac: https://gpgtools.org/
 
 
-<img src="img/Thunderbird+Enigmail+GnuPG.png">
+## TODO: Bild einer verschlüsselten Postkarte einfügen
 
 
 ## bietet
 * Vertraulichkeit
 * Beglaubigung
-
 
 ## bietet nicht
 * Abstreitbarkeit
@@ -300,6 +292,7 @@ Bitte installieren<br>
 <a href="http://ariesnamarie.deviantart.com/art/Follow-the-White-Rabbit-338132499"><img src="img/follow_the_white_rabbit_by_ariesnamarie-d5lbcpf.jpg" alt=""></a>
 
 
+<!--
 # 30. Chaos Communication Congress
 
 ### ~6000 Besucher
@@ -310,13 +303,15 @@ Bitte installieren<br>
 
 ## 26c3 Impressionen
 ## http://www.youtube.com/watch?v=tQzfiiwPh9E
+-->
 
 
 # Links
-* http://cryptoparty-hamburg.de/slides/
-* http://cybererrorism.noblogs.org/files/2013/06/privacy-handbuch.pdf
-* http://mirror-de.cryptoparty.is/handbook/
-* http://cryptoparty.in (Englisch)
+* https://prism-break.org/
+* https://cryptoparty-hamburg.de/slides/
+* https://cybererrorism.noblogs.org/files/2013/06/privacy-handbuch.pdf
+* https://mirror-de.cryptoparty.is/handbook/
+* https://cryptoparty.in (Englisch)
 
 
 Diese Cryptoparty wurde von der Wau-Holland-Stiftung finanziell unterstützt.
