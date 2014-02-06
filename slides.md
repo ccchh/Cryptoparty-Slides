@@ -292,7 +292,7 @@ Bitte installieren<br>
 <a href="http://ariesnamarie.deviantart.com/art/Follow-the-White-Rabbit-338132499"><img src="img/follow_the_white_rabbit_by_ariesnamarie-d5lbcpf.jpg" alt=""></a>
 
 
-<!--
+/*
 # 30. Chaos Communication Congress
 
 ### ~6000 Besucher
@@ -303,14 +303,14 @@ Bitte installieren<br>
 
 ## 26c3 Impressionen
 ## http://www.youtube.com/watch?v=tQzfiiwPh9E
--->
+*/
 
 
 # Links
 * https://prism-break.org/
 * https://cryptoparty-hamburg.de/slides/
 * https://cybererrorism.noblogs.org/files/2013/06/privacy-handbuch.pdf
-* https://mirror-de.cryptoparty.is/handbook/
+* http://mirror-de.cryptoparty.is/handbook/
 * https://cryptoparty.in (Englisch)
 
 
