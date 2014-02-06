@@ -292,20 +292,6 @@ Bitte installieren<br>
 <a href="http://ariesnamarie.deviantart.com/art/Follow-the-White-Rabbit-338132499"><img src="img/follow_the_white_rabbit_by_ariesnamarie-d5lbcpf.jpg" alt=""></a>
 
 
-<!---
-# 30. Chaos Communication Congress
-
-### ~6000 Besucher
-### 27. bis 30.12.
-### Tickets an der Abendkasse erhältlich (15€/Tag, 80€/4 Tage)
-### https://events.ccc.de/
-
-
-## 26c3 Impressionen
-## http://www.youtube.com/watch?v=tQzfiiwPh9E
---->
-
-
 # Links
 * https://prism-break.org/
 * https://cryptoparty-hamburg.de/slides/
@@ -315,11 +301,12 @@ Bitte installieren<br>
 
 
 Diese Cryptoparty wurde von der Wau-Holland-Stiftung finanziell unterstützt.
-Spenden sind gern gesehen.
+Spenden sind gern gesehen.<br />
+http://www.wauland.de/
 
 
 # Danke!
-http://cryptoparty-hamburg.de<br />
-http://hamburg.ccc.de<br /><br />
-hallo@cryptoparty-hamburg.de<br />
+http://cryptoparty-hamburg.de/<br />
+http://hamburg.ccc.de/<br /><br />
+hallo@cryptoparty-hamburg.de/<br />
 Fingerprint: 39C5 1E52 51C6 856E<br>3062 DA72 8D5F 7E7C B960 EC68
