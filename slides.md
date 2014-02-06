@@ -13,9 +13,9 @@ Passwort: xxxxxxxx
 * Einleitung
 * Das Internet
 * Passwörter
-* Festplattenverschlüsselung
-* Chatverschlüsselung
-* Mailverschlüsselung
+* <b>Festplattenverschlüsselung</b>
+* <b>Chatverschlüsselung</b>
+* <b>Mailverschlüsselung</b>
 * Über Smartphones und Tablets
 * Fragen und Antworten
 
@@ -28,7 +28,7 @@ Passwort: xxxxxxxx
 ### Einführung in die Anwendung von verschlüsselter Software
 
 
-### Was wir heute lernen hilft **nicht** gegen die Preisgabe von Verbindungsdaten (aka Metadaten)
+### Was wir heute lernen hilft **nicht** dagegen, dass jeder weiß wann man mit wem kommuniziert (Metadaten)
 
 
 ### Kriterien für Verschlüsselungssoftware
