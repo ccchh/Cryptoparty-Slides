@@ -84,8 +84,143 @@ Passwort: xxxxxxxx
 * USB-Sticks 
 
 
+
 # Festplatten-
 # verschlüsselung
+
+
+## TrueCrypt
+### Windows, Mac, Linux
+
+
+<img src="img/tc_fde_01.png">
+
+
+<img src="img/tc_fde_02.png">
+
+
+<img src="img/tc_fde_03.png">
+
+
+<img src="img/tc_fde_04.png">
+
+
+<img src="img/tc_fde_05.png">
+
+
+<img src="img/tc_fde_06.png">
+
+
+<img src="img/tc_fde_07.png">
+
+
+<img src="img/tc_fde_08.png">
+
+
+<img src="img/tc_fde_09.png">
+
+
+<img src="img/tc_fde_10.png">
+
+
+<img src="img/tc_fde_11.png">
+
+
+<img src="img/tc_fde_12.png">
+
+
+<img src="img/tc_fde_13.png">
+
+
+<img src="img/tc_fde_14.png">
+
+
+<img src="img/tc_fde_15.png">
+
+
+<img src="img/tc_fde_16.png">
+
+
+<img src="img/tc_fde_17.png">
+
+
+<img src="img/tc_fde_18.png">
+
+
+<img src="img/tc_fde_19.png">
+
+
+<img src="img/tc_fde_20.png">
+
+
+<img src="img/tc_fde_21.png">
+
+
+<img src="img/tc_fde_22.png">
+
+
+## FileVault
+### Mac
+
+
+<img src="img/filevault1.png">
+
+
+<img src="img/filevault2.png">
+
+
+<img src="img/filevault3.png">
+
+
+<img src="img/filevault4.png">
+
+
+## BitLocker
+### Windows
+
+
+<img src="img/bitlocker01.png">
+
+
+<img src="img/bitlocker02.png">
+
+
+<img src="img/bitlocker03.png">
+
+
+<img src="img/bitlocker04.png">
+
+
+<img src="img/bitlocker05.png">
+
+
+<img src="img/bitlocker06.png">
+
+
+<img src="img/bitlocker07.png">
+
+
+<img src="img/bitlocker08.png">
+
+
+<img src="img/bitlocker09.png">
+
+
+<img src="img/bitlocker10.png">
+
+
+<img src="img/bitlocker11.png">
+
+
+<img src="img/bitlocker_zusatz01.png">
+
+
+<img src="img/bitlocker_zusatz02.png">
+
+
+
+# Verschlüsselte
+# Container
 
 
 ## TrueCrypt
@@ -134,22 +269,8 @@ Passwort: xxxxxxxx
 <img src="img/tc14.png" alt="" />
 
 
-## FileVault (Mac)
-
-
-<img src="img/filevault1.png">
-
-
-<img src="img/filevault2.png">
-
-
-<img src="img/filevault3.png">
-
-
-<img src="img/filevault4.png">
-
-
-## Verschlüsselte<br>Container (Mac)
+## FileVault
+### Mac
 
 
 <img src="img/mac_crypt_container1.png">
@@ -158,7 +279,8 @@ Passwort: xxxxxxxx
 <img src="img/mac_crypt_container2.png">
 
 
-## DM-Crypt (Linux)
+## DM-Crypt
+### Linux
 
 
 ### Muss bei der Installation eingeschaltet werden.
@@ -170,10 +292,12 @@ Passwort: xxxxxxxx
 <img src="img/Ubuntu_Install_04.png">
 
 
-## Encfs (Linux/Mac)
+## Encfs
+### Mac, Linux
 
 
-### Kann auch nachträglich<br>Verzeichnisse verschlüsseln.
+### Kann auch nachträglich
+### Verzeichnisse verschlüsseln.
 
 
 Kann man z.B. Cryptkeeper oder Gnome Encfs Manager installieren
@@ -266,7 +390,7 @@ Bitte installieren<br>
 <img src="img/key_details.png">
 
 
-## TODO Screenshot Erklärung Begriffe
+<img src="img/key_definitons.png">
 
 
 <img src="img/key_submenu.png">
@@ -289,6 +413,9 @@ Bitte installieren<br>
 
 
 ## PGP/GPG würden wir nicht machen
+
+
+## Siehe Links am Ende um sich selbst einzuarbeiten
 
 
 
