@@ -92,6 +92,8 @@ Passwort: xxxxxxxx
 ## TrueCrypt
 ### Windows, Mac, Linux
 
+### Benötigt einen CD-Brenner für Rescue-CD!
+
 
 <img src="img/tc_fde_01.png">
 
@@ -185,6 +187,8 @@ Passwort: xxxxxxxx
 <img src="img/bitlocker02.png">
 
 
+### USB-Stick wird nur bei alten PCs gebraucht (ohne TPM)
+### Normalerweise muss man hier eine PIN eingeben
 <img src="img/bitlocker03.png">
 
 
@@ -212,9 +216,11 @@ Passwort: xxxxxxxx
 <img src="img/bitlocker11.png">
 
 
+### Eventuell nötige Einstellung bei älteren PCs (ohne TPM)
 <img src="img/bitlocker_zusatz01.png">
 
 
+### Eventuell nötige Einstellung bei älteren PCs (ohne TPM)
 <img src="img/bitlocker_zusatz02.png">
 
 
