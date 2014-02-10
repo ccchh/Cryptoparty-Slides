@@ -85,6 +85,78 @@ Passwort: xxxxxxxx
 
 
 
+# Verschlüsselte
+# Container
+
+
+## TrueCrypt
+### Windows, Mac, Linux
+
+
+<img src="img/tc1.png" alt="" />
+
+
+<img src="img/tc2.png" alt="" />
+
+
+<img src="img/tc3.png" alt="" />
+
+
+<img src="img/tc4.png" alt="" />
+
+
+<img src="img/tc5.png" alt="" />
+
+
+<img src="img/tc6.png" alt="" />
+
+
+<img src="img/tc7.png" alt="" />
+
+
+<img src="img/tc8.png" alt="" />
+
+
+<img src="img/tc9.png" alt="" />
+
+
+<img src="img/tc10.png" alt="" />
+
+
+<img src="img/tc11.png" alt="" />
+
+
+<img src="img/tc12.png" alt="" />
+
+
+<img src="img/tc13.png" alt="" />
+
+
+<img src="img/tc14.png" alt="" />
+
+
+## FileVault
+### Mac
+
+
+<img src="img/mac_crypt_container1.png">
+
+
+<img src="img/mac_crypt_container2.png">
+
+
+## Encfs
+### Mac, Linux
+
+
+### Kann auch nachträglich
+### Verzeichnisse verschlüsseln.
+
+
+Kann man z.B. Cryptkeeper oder Gnome Encfs Manager installieren
+
+
+
 # Festplatten-
 # verschlüsselung
 
@@ -188,7 +260,7 @@ Passwort: xxxxxxxx
 
 
 ### USB-Stick wird nur bei alten PCs gebraucht (ohne TPM)
-### Normalerweise muss man hier eine PIN eingeben
+### Sonst kann man hier eine PIN eingeben
 <img src="img/bitlocker03.png">
 
 
@@ -224,67 +296,6 @@ Passwort: xxxxxxxx
 <img src="img/bitlocker_zusatz02.png">
 
 
-
-# Verschlüsselte
-# Container
-
-
-## TrueCrypt
-### Windows, Mac, Linux
-
-
-<img src="img/tc1.png" alt="" />
-
-
-<img src="img/tc2.png" alt="" />
-
-
-<img src="img/tc3.png" alt="" />
-
-
-<img src="img/tc4.png" alt="" />
-
-
-<img src="img/tc5.png" alt="" />
-
-
-<img src="img/tc6.png" alt="" />
-
-
-<img src="img/tc7.png" alt="" />
-
-
-<img src="img/tc8.png" alt="" />
-
-
-<img src="img/tc9.png" alt="" />
-
-
-<img src="img/tc10.png" alt="" />
-
-
-<img src="img/tc11.png" alt="" />
-
-
-<img src="img/tc12.png" alt="" />
-
-
-<img src="img/tc13.png" alt="" />
-
-
-<img src="img/tc14.png" alt="" />
-
-
-## FileVault
-### Mac
-
-
-<img src="img/mac_crypt_container1.png">
-
-
-<img src="img/mac_crypt_container2.png">
-
-
 ## DM-Crypt
 ### Linux
 
@@ -296,17 +307,6 @@ Passwort: xxxxxxxx
 
 
 <img src="img/Ubuntu_Install_04.png">
-
-
-## Encfs
-### Mac, Linux
-
-
-### Kann auch nachträglich
-### Verzeichnisse verschlüsseln.
-
-
-Kann man z.B. Cryptkeeper oder Gnome Encfs Manager installieren
 
 
 
