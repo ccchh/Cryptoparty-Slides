@@ -90,7 +90,7 @@ Passwort: xxxxxxxx
 
 
 ## TrueCrypt
-### Windows
+### Windows, Mac, Linux
 
 
 <img src="img/tc1.png" alt="" />
@@ -162,7 +162,7 @@ Kann man z.B. Cryptkeeper oder Gnome Encfs Manager installieren
 
 
 ## TrueCrypt
-### Windows, Mac, Linux
+### Windows
 
 ### Benötigt einen CD-Brenner für Rescue-CD!
 
