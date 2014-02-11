@@ -362,7 +362,7 @@ Bitte installieren<br>
 * Mac: https://gpgtools.org/
 
 
-## TODO: Bild einer verschlüsselten Postkarte einfügen
+<img src="img/key_cryptocard.png">
 
 
 ## bietet
@@ -400,6 +400,9 @@ Bitte installieren<br>
 
 
 <img src="img/key_submenu.png">
+
+
+<img src="img/key_senden.png">
 
 
 ## Web-Of-Trust
