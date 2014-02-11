@@ -1,6 +1,8 @@
 http://slides/cryptoparty-hamburg.de/master/<br /><br />
 Download: http://cryptoparty-hamburg.de/download<br /><br />
 
+<img src="./img/no-photo.jpg" />
+Bitte keine Fotos machen.
 
 # Cryptoparty<br/> Hamburg
 
