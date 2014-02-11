@@ -1,9 +1,6 @@
 http://cryptoparty-hamburg.de/slides/<br /><br />
 Download: http://cryptoparty-hamburg.de/download<br /><br />
 
-WLAN: xxxxxxxx<br />
-Passwort: xxxxxxxx
-
 
 # Cryptoparty<br/> Hamburg
 
@@ -331,8 +328,6 @@ Kann man z.B. Cryptkeeper oder Gnome Encfs Manager installieren
 * jabber.itpunks.net
 * jabber.chaos.li
 * jabber.gabbler.net
-* WLAN: xxxxxx
-* Passwort: xxxxxx
 
 
 # E-Mail-
