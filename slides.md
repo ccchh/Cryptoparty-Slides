@@ -197,9 +197,6 @@ Kann man z.B. Cryptkeeper oder Gnome Encfs Manager installieren
 <img src="img/tc_fde_10.png">
 
 
-<img src="img/tc_fde_11.png">
-
-
 <img src="img/tc_fde_12.png">
 
 
@@ -216,9 +213,6 @@ Kann man z.B. Cryptkeeper oder Gnome Encfs Manager installieren
 
 
 <img src="img/tc_fde_17.png">
-
-
-<img src="img/tc_fde_18.png">
 
 
 <img src="img/tc_fde_19.png">
