@@ -90,7 +90,7 @@ Passwort: xxxxxxxx
 
 
 ## TrueCrypt
-### Windows, Mac, Linux
+### Windows
 
 
 <img src="img/tc1.png" alt="" />
