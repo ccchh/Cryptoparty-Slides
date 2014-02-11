@@ -356,7 +356,7 @@ Bitte installieren<br>
 * Mac: https://gpgtools.org/
 
 
-<img src="img/key_cryptocard.png">
+<img src="img/key_cryptocard.jpg">
 
 
 ## bietet
