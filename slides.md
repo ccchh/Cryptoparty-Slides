@@ -1,4 +1,4 @@
-http://cryptoparty-hamburg.de/slides/<br /><br />
+http://slides/cryptoparty-hamburg.de/master/<br /><br />
 Download: http://cryptoparty-hamburg.de/download<br /><br />
 
 
