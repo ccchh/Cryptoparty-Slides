@@ -427,7 +427,7 @@ Bitte installieren<br>
 
 # Links
 * https://prism-break.org/
-* https://cryptoparty-hamburg.de/slides/
+* https://slides.cryptoparty-hamburg.de/master/
 * https://cybererrorism.noblogs.org/files/2013/06/privacy-handbuch.pdf
 * http://mirror-de.cryptoparty.is/handbook/
 * https://cryptoparty.in (Englisch)
