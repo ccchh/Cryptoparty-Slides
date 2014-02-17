@@ -14,9 +14,9 @@ Bitte keine Fotos machen.
 * Einleitung
 * Das Internet
 * Passwörter
+* <b>Mailverschlüsselung</b>
 * <b>Festplattenverschlüsselung</b>
 * <b>Chatverschlüsselung</b>
-* <b>Mailverschlüsselung</b>
 * Über Smartphones und Tablets
 * Fragen und Antworten
 
@@ -83,6 +83,77 @@ Bitte keine Fotos machen.
 * OS X Schlüsselbund (Mac)
 * Seahorse (Linux)
 * USB-Sticks 
+
+
+
+# E-Mail-
+# verschlüsselung
+
+
+## Einführung in<br>Crypto-Verfahren
+
+
+## Privater Schlüssel vs. öffentlicher Schlüssel
+
+
+<img src="img/Thunderbird+Enigmail+GnuPG.png">
+
+
+## Thunderbird + Enigmail
+Bitte installieren<br>
+* http://www.mozilla.org/de/thunderbird/
+* https://addons.mozilla.org/de/thunderbird/addon/enigmail/
+* Windows: http://files.gpg4win.org/gpg4win-vanilla-2.1.1.exe<br>
+* Mac: https://gpgtools.org/
+
+
+<img src="img/key_cryptocard.jpg">
+
+
+## bietet
+* Vertraulichkeit
+* Beglaubigung
+
+## bietet nicht
+* Abstreitbarkeit
+* Folgenlosigkeit
+
+
+## Generieren<br>von Schlüsseln
+<br>OpenPGP > Schlüssel verwalten ... <br> Erzeugen > Neues Schlüsselpaar ...
+
+
+<img src="img/key2.png">
+
+
+<img src="img/key1.png">
+
+
+<img src="img/key3.png">
+
+
+<img src="img/key4.png">
+
+
+<img src="img/key5.png">
+
+
+<img src="img/key_details.png">
+
+
+<img src="img/key_definitons.png">
+
+
+<img src="img/key_submenu.png">
+
+
+<img src="img/key_senden.png">
+
+
+## Web-Of-Trust
+
+
+## Key-Signing/Trust-Level
 
 
 
@@ -332,77 +403,6 @@ Kann man z.B. Cryptkeeper oder Gnome Encfs Manager installieren
 * jabber.itpunks.net
 * jabber.chaos.li
 * jabber.gabbler.net
-
-
-
-# E-Mail-
-# verschlüsselung
-
-
-## Einführung in<br>Crypto-Verfahren
-
-
-## Privater Schlüssel vs. öffentlicher Schlüssel
-
-
-<img src="img/Thunderbird+Enigmail+GnuPG.png">
-
-
-## Thunderbird + Enigmail
-Bitte installieren<br>
-* http://www.mozilla.org/de/thunderbird/
-* https://addons.mozilla.org/de/thunderbird/addon/enigmail/
-* Windows: http://files.gpg4win.org/gpg4win-vanilla-2.1.1.exe<br>
-* Mac: https://gpgtools.org/
-
-
-<img src="img/key_cryptocard.jpg">
-
-
-## bietet
-* Vertraulichkeit
-* Beglaubigung
-
-## bietet nicht
-* Abstreitbarkeit
-* Folgenlosigkeit
-
-
-## Generieren<br>von Schlüsseln
-<br>OpenPGP > Schlüssel verwalten ... <br> Erzeugen > Neues Schlüsselpaar ...
-
-
-<img src="img/key2.png">
-
-
-<img src="img/key1.png">
-
-
-<img src="img/key3.png">
-
-
-<img src="img/key4.png">
-
-
-<img src="img/key5.png">
-
-
-<img src="img/key_details.png">
-
-
-<img src="img/key_definitons.png">
-
-
-<img src="img/key_submenu.png">
-
-
-<img src="img/key_senden.png">
-
-
-## Web-Of-Trust
-
-
-## Key-Signing/Trust-Level
 
 
 
