@@ -145,10 +145,14 @@ Bitte installieren<br>
 <img src="img/key_definitons.png">
 
 
+<img src="img/key_senden.png">
+
+
 <img src="img/key_submenu.png">
 
 
-<img src="img/key_senden.png">
+### Die Keyserver: Das dezentrale Schlüsselbuch im Internet.
+### <a href="http://pgp.mit.edu/">http://pgp.mit.edu/</a>
 
 
 ## Web-Of-Trust
