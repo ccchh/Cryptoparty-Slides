@@ -225,8 +225,9 @@ Bitte installieren<br>
 ### Kann auch nachträglich
 ### Verzeichnisse verschlüsseln.
 
+### <a href="https://defuse.ca/audits/encfs.htm"> Sicherheitsaudit</a> war nicht vielversprechend.
 
-Kann man z.B. Cryptkeeper oder Gnome Encfs Manager installieren
+### Als Frontend kann man z.B. Cryptkeeper oder Gnome Encfs Manager installieren
 
 
 
