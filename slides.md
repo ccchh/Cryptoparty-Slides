@@ -85,7 +85,9 @@ Bitte keine Fotos machen.
 * Seahorse (Linux)
 * USB-Sticks 
 
+## KeepassX
 
+### Tolles Program zum Passwörter verwalten.
 
 # E-Mail-
 # verschlüsselung
