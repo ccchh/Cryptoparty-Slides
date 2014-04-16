@@ -162,6 +162,7 @@ Bitte keine Fotos machen.
 Wird die ".kdb"-Datei verloren sind die Passwörter weg,<br />
 gleiches gilt bei verlust des Passworts.
 
+
 # E-Mail-
 # verschlüsselung
 
