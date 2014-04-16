@@ -87,7 +87,96 @@ Bitte keine Fotos machen.
 
 ## KeepassX
 
-### Tolles Program zum Passwörter verwalten.
+### Program zum verwalten von Passwörtern
+
+
+<img src="img/KP01.JPG">
+
+
+<img src="img/KP02.JPG">
+
+
+<img src="img/KP03.JPG">
+
+
+<img src="img/KP04.JPG">
+
+
+<img src="img/KP05.JPG">
+
+
+<img src="img/KP05-1.png">
+
+
+<img src="img/KP05-2.png">
+
+
+<img src="img/KP05-3.png">
+
+
+<img src="img/KP05-4.png">
+
+
+<img src="img/KP06.JPG">
+
+
+<img src="img/KP06-2.png">
+
+
+<img src="img/KP07.JPG">
+
+
+<img src="img/KP08.JPG">
+
+
+<img src="img/KP09.JPG">
+
+
+<img src="img/KP10.JPG">
+
+
+<img src="img/KP011.png">
+
+
+<img src="img/KP012.png">
+
+
+<img src="img/KP013.png">
+
+
+<img src="img/KP014.png">
+
+
+<img src="img/KP015.png">
+
+
+<img src="img/KP016.png">
+
+
+<img src="img/KP017.png">
+
+
+<img src="img/KP018.png">
+
+
+<img src="img/KP019.png">
+
+
+<img src="img/KP020.png">
+
+
+<img src="img/KP021.png">
+
+
+<img src="img/KP022.JPG">
+
+
+<img src="img/KP023.JPG">
+
+
+### Sichern der ".kdb"-Datei
+Wird die ".kdb"-Datei verloren sind die Passwörter weg,<br />
+gleiches gilt bei verlust des Hauptpassworts.
 
 # E-Mail-
 # verschlüsselung
