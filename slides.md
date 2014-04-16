@@ -159,8 +159,8 @@ Bitte keine Fotos machen.
 
 
 ### Sichern der ".kdb"-Datei
-Wird die ".kdb"-Datei verloren sind die Passwörter weg,<br />
-gleiches gilt bei verlust des Passworts.
+Wird die ".kdb"-Datei verloren, sind die Passwörter weg.<br />
+Gleiches gilt bei Verlust des Passworts.
 
 
 # E-Mail-
