@@ -24,7 +24,7 @@ Bitte keine Fotos machen.
 
 
 # Einleitung
-> “Man is least himself when he talks in his own person. Give him a mask, and he will tell you the truth.” - Oscar Wilde
+> “Man is least himself when he talks iHauptpasswortsn his own person. Give him a mask, and he will tell you the truth.” - Oscar Wilde
 
 
 ### Einführung in die Anwendung von verschlüsselter Software
@@ -89,94 +89,81 @@ Bitte keine Fotos machen.
 
 ### Program zum verwalten von Passwörtern
 
-
-<img src="img/KP01.JPG">
-
-
-<img src="img/KP02.JPG">
+<img src="img/KP00.png">
 
 
-<img src="img/KP03.JPG">
+<img src="img/KP01.png">
 
 
-<img src="img/KP04.JPG">
+<img src="img/KP02.png>
 
 
-<img src="img/KP05.JPG">
+<img src="img/KP03.png">
 
 
-<img src="img/KP05-1.png">
+<img src="img/KP04.png">
 
 
-<img src="img/KP05-2.png">
+<img src="img/KP05.png">
 
 
-<img src="img/KP05-3.png">
+<img src="img/KP06.png">
 
 
-<img src="img/KP05-4.png">
+<img src="img/KP07.png">
 
 
-<img src="img/KP06.JPG">
+<img src="img/KP08.png">
 
 
-<img src="img/KP06-2.png">
+<img src="img/KP09.png">
 
 
-<img src="img/KP07.JPG">
+<img src="img/KP10.png">
 
 
-<img src="img/KP08.JPG">
+<img src="img/KP11.png">
 
 
-<img src="img/KP09.JPG">
+<img src="img/KP12.png">
 
 
-<img src="img/KP10.JPG">
+<img src="img/KP13.png">
 
 
-<img src="img/KP011.png">
+<img src="img/KP14.png">
 
 
-<img src="img/KP012.png">
+<img src="img/KP15.png">
 
 
-<img src="img/KP013.png">
+<img src="img/KP16.png">
 
 
-<img src="img/KP014.png">
+<img src="img/KP17.png">
 
 
-<img src="img/KP015.png">
+<img src="img/KP18.png">
 
 
-<img src="img/KP016.png">
+<img src="img/KP19.png">
 
 
-<img src="img/KP017.png">
+<img src="img/KP20.png">
 
 
-<img src="img/KP018.png">
+<img src="img/KP21.png">
 
 
-<img src="img/KP019.png">
+<img src="img/KP22.JPG">
 
 
-<img src="img/KP020.png">
-
-
-<img src="img/KP021.png">
-
-
-<img src="img/KP022.JPG">
-
-
-<img src="img/KP023.JPG">
+<img src="img/KP23.JPG">
 
 
 ### Sichern der ".kdb"-Datei
 Wird die ".kdb"-Datei verloren sind die Passwörter weg,<br />
-gleiches gilt bei verlust des Hauptpassworts.
+gleiches gilt bei verlust des Passworts.
 
 # E-Mail-
 # verschlüsselung
