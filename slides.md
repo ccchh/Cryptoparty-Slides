@@ -87,7 +87,7 @@ Bitte keine Fotos machen.
 
 ## KeepassX
 
-### Program zum verwalten von Passwörtern
+### Program zum verwalten von Passwörtern für Win, Mac, Linux
 
 <img src="img/KP00.png">
 
@@ -95,7 +95,7 @@ Bitte keine Fotos machen.
 <img src="img/KP01.png">
 
 
-<img src="img/KP02.png>
+<img src="img/KP02.png">
 
 
 <img src="img/KP03.png">
@@ -152,13 +152,10 @@ Bitte keine Fotos machen.
 <img src="img/KP20.png">
 
 
-<img src="img/KP21.png">
+<img src="img/KP21.JPG">
 
 
 <img src="img/KP22.JPG">
-
-
-<img src="img/KP23.JPG">
 
 
 ### Sichern der ".kdb"-Datei
