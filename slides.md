@@ -85,6 +85,7 @@ Bitte keine Fotos machen.
 * Seahorse (Linux)
 * USB-Sticks 
 
+
 ## KeepassX
 
 ### Program zum verwalten von Passwörtern für Win, Mac, Linux
@@ -191,6 +192,7 @@ Bitte installieren<br>
 * Vertraulichkeit
 * Beglaubigung
 
+
 ## bietet nicht
 * Abstreitbarkeit
 * Folgenlosigkeit
@@ -227,7 +229,7 @@ Bitte installieren<br>
 <img src="img/key_submenu.png">
 
 
-### Die Keyserver: Das dezentrale Schlüsselbuch im Internet.
+### Die Keyserver: Das dezentrale Schlüsselbuch im Internet
 ### <a href="http://pgp.mit.edu/">http://pgp.mit.edu/</a>
 
 
