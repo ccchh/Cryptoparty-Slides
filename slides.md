@@ -24,10 +24,10 @@ Bitte keine Fotos machen.
 
 
 # Einleitung
-> “Man is least himself when he talks iHauptpasswortsn his own person. Give him a mask, and he will tell you the truth.” - Oscar Wilde
+> “Man is least himself when he talks in his own person. Give him a mask, and he will tell you the truth.” - Oscar Wilde
 
 
-### Einführung in die Anwendung von verschlüsselter Software
+### Einführung in die Anwendung von Verschlüsselungssoftware
 
 
 ### Was wir heute lernen hilft **nicht** dagegen, dass jeder weiß wann man mit wem kommuniziert (Metadaten)
