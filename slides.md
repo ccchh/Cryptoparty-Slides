@@ -300,7 +300,7 @@ Bitte installieren<br>
 <img src="img/mac_crypt_container2.png">
 
 
-## Encfs
+## EncFS
 ### Mac, Linux
 
 
@@ -308,10 +308,10 @@ Bitte installieren<br>
 ### Verzeichnisse verschlüsseln.
 
 
-### <a href="https://defuse.ca/audits/encfs.htm"> Sicherheitsaudit</a> war nicht vielversprechend.
+### <a href="https://defuse.ca/audits/encfs.htm"> Sicherheitsaudit</a> war nicht vielversprechend
 
 
-### Als Frontend kann man z.B. Cryptkeeper oder Gnome Encfs Manager installieren
+### Als grafische Oberfläche für EncFS kann man z.B. Cryptkeeper oder Gnome Encfs Manager installieren
 
 
 
@@ -452,7 +452,7 @@ Bitte installieren<br>
 ### Linux
 
 
-### Muss bei der Installation eingeschaltet werden.
+### Muss bei der Installation eingeschaltet werden
 
 
 <img src="img/Ubuntu_Install_03.png">
