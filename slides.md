@@ -182,7 +182,7 @@ Gleiches gilt bei Verlust des Passworts.
 Bitte installieren<br>
 * http://www.mozilla.org/de/thunderbird/
 * https://addons.mozilla.org/de/thunderbird/addon/enigmail/
-* Windows: http://files.gpg4win.org/gpg4win-vanilla-2.2.1.exe<br>
+* Windows: http://files.gpg4win.org/gpg4win-light-2.2.1.exe<br>
 * Mac: https://gpgtools.org/
 
 
