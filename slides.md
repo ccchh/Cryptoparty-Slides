@@ -242,7 +242,6 @@ Bitte installieren<br>
 
 
 # Dateiverschlüsselung mit GPG
-# Linux, Windows, Mac
 
 
 
