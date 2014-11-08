@@ -204,31 +204,34 @@ Bitte installieren<br>
 <br>OpenPGP > Schlüssel verwalten ... <br> Erzeugen > Neues Schlüsselpaar ...
 
 
-<img src="img/enig1.png">
+<img src="img/enig1.PNG">
 
 
-<img src="img/enig2.png">
+<img src="img/enig2.PNG">
 
 
-<img src="img/enig3.png">
+<img src="img/enig3.PNG">
 
 
-<img src="img/enig4.png">
+<img src="img/enig4.PNG">
 
 
-<img src="img/enig5.png">
+<img src="img/enig5.PNG">
 
 
-<img src="img/enig6.png">
+<img src="img/enig6.PNG">
 
 
-<img src="img/enig7.png">
+<img src="img/enig7.PNG">
 
- 
-<img src="img/enig8.png">
+
+<img src="img/enig8.PNG">
 
 
 <img src="img/enig9.png">
+
+
+<img src="img/enig10.png">
 
 
 ### Die Keyserver: Das dezentrale Schlüsselbuch im Internet
