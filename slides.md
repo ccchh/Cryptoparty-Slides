@@ -482,11 +482,6 @@ Bitte installieren<br>
 * https://cryptoparty.in (Englisch)
 
 
-Diese Cryptoparty wurde von der Wau-Holland-Stiftung finanziell unterstützt.
-Spenden sind gern gesehen.<br />
-http://www.wauland.de/
-
-
 # Danke!
 http://cryptoparty-hamburg.de/<br />
 http://hamburg.ccc.de/<br /><br />
