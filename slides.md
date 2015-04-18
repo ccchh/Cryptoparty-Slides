@@ -483,6 +483,10 @@ Bitte installieren<br>
 
 
 # Danke!
+http://ak-vorrat-hamburg.de/
+kontakt@ak-vorrat-hamburg.de
+Fingerprint: F779 652D C7A8 6DEA<br>6C4B 1BD7 5A31 907B 025E 5277
+
 http://cryptoparty-hamburg.de/<br />
 http://hamburg.ccc.de/<br /><br />
 hallo@cryptoparty-hamburg.de/<br />
