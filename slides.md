@@ -483,11 +483,11 @@ Bitte installieren<br>
 
 
 # Danke!
-http://ak-vorrat-hamburg.de/
-kontakt@ak-vorrat-hamburg.de
+http://ak-vorrat-hamburg.de/<br />
+<a href="mailto:kontakt@ak-vorrat-hamburg.de">kontakt@ak-vorrat-hamburg.de</a><br />
 Fingerprint: F779 652D C7A8 6DEA<br>6C4B 1BD7 5A31 907B 025E 5277
-
+<br /><br />
 http://cryptoparty-hamburg.de/<br />
-http://hamburg.ccc.de/<br /><br />
-hallo@cryptoparty-hamburg.de/<br />
+http://hamburg.ccc.de/<br />
+<a href="mailto:hallo@cryptoparty-hamburg.de">hallo@cryptoparty-hamburg.de/</a><br />
 Fingerprint: 39C5 1E52 51C6 856E<br>3062 DA72 8D5F 7E7C B960 EC68
