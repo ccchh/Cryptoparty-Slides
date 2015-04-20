@@ -477,7 +477,7 @@ Bitte installieren<br>
 # Links
 * https://prism-break.org/
 * https://slides.cryptoparty-hamburg.de/master/
-* https://cybererrorism.noblogs.org/files/2013/06/privacy-handbuch.pdf
+* https://www.privacy-handbuch.de/download/privacy-handbuch.pdf
 * http://mirror-de.cryptoparty.is/handbook/
 * https://cryptoparty.in (Englisch)
 
