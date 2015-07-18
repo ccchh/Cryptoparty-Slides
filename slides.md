@@ -202,7 +202,7 @@ Bitte installieren<br>
 
 
 ## Generieren<br>von Schlüsseln
-<br>OpenPGP > Schlüssel verwalten ... <br> Erzeugen > Neues Schlüsselpaar ...
+<br>Enigmail > Schlüssel verwalten ... <br> Erzeugen > Neues Schlüsselpaar ...
 
 
 <img src="img/enig1.PNG">
