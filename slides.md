@@ -3,7 +3,8 @@ Download: http://cryptoparty-hamburg.de/download<br /><br />
 
 
 <img src="./img/no-photo.jpg" /><br />
-Bitte keine Fotos machen.
+Bitte keine Fotos machen.<br /><br />
+Angehörige der Exekutive (Personen mit Meldepflicht gem. §152 StPO) sind in diesem Raum nicht willkommen!
 
 
 
