@@ -320,6 +320,52 @@ Bitte installieren<br>
 # Container
 
 
+## TrueCrypt
+### Windows, Mac, Linux
+
+
+<img src="img/tc1.png" alt="" />
+
+
+<img src="img/tc2.png" alt="" />
+
+
+<img src="img/tc3.png" alt="" />
+
+
+<img src="img/tc4.png" alt="" />
+
+
+<img src="img/tc5.png" alt="" />
+
+
+<img src="img/tc6.png" alt="" />
+
+
+<img src="img/tc7.png" alt="" />
+
+
+<img src="img/tc8.png" alt="" />
+
+
+<img src="img/tc9.png" alt="" />
+
+
+<img src="img/tc10.png" alt="" />
+
+
+<img src="img/tc11.png" alt="" />
+
+
+<img src="img/tc12.png" alt="" />
+
+
+<img src="img/tc13.png" alt="" />
+
+
+<img src="img/tc14.png" alt="" />
+
+
 ## FileVault
 ### Mac
 
@@ -347,6 +393,72 @@ Bitte installieren<br>
 
 # Festplatten-
 # verschlüsselung
+
+
+## TrueCrypt
+### Windows
+
+### Benötigt einen CD-Brenner für Rescue-CD!
+
+
+<img src="img/tc_fde_01.png">
+
+
+<img src="img/tc_fde_02.png">
+
+
+<img src="img/tc_fde_03.png">
+
+
+<img src="img/tc_fde_04.png">
+
+
+<img src="img/tc_fde_05.png">
+
+
+<img src="img/tc_fde_06.png">
+
+
+<img src="img/tc_fde_07.png">
+
+
+<img src="img/tc_fde_08.png">
+
+
+<img src="img/tc_fde_09.png">
+
+
+<img src="img/tc_fde_10.png">
+
+
+<img src="img/tc_fde_12.png">
+
+
+<img src="img/tc_fde_13.png">
+
+
+<img src="img/tc_fde_14.png">
+
+
+<img src="img/tc_fde_15.png">
+
+
+<img src="img/tc_fde_16.png">
+
+
+<img src="img/tc_fde_17.png">
+
+
+<img src="img/tc_fde_19.png">
+
+
+<img src="img/tc_fde_20.png">
+
+
+<img src="img/tc_fde_21.png">
+
+
+<img src="img/tc_fde_22.png">
 
 
 ## FileVault
