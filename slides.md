@@ -321,7 +321,7 @@ Bitte installieren<br>
 
 
 ## VeraCrypt
-## (Nachfolger von Truecrypt)
+### (Nachfolger von Truecrypt)
 ### Windows, Mac, Linux
 
 
