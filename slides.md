@@ -399,70 +399,73 @@ Bitte installieren<br>
 # verschlüsselung
 
 
-## TrueCrypt
+## VeraCrypt
 ### Windows
 
 ### Benötigt einen CD-Brenner für Rescue-CD!
 
 
-<img src="img/tc_fde_01.png">
+<img src="img/vc_fde_01.png">
 
 
-<img src="img/tc_fde_02.png">
+<img src="img/vc_fde_02.png">
 
 
-<img src="img/tc_fde_03.png">
+<img src="img/vc_fde_03.png">
 
 
-<img src="img/tc_fde_04.png">
+<img src="img/vc_fde_04.png">
 
 
-<img src="img/tc_fde_05.png">
+<img src="img/vc_fde_05.png">
 
 
-<img src="img/tc_fde_06.png">
+<img src="img/vc_fde_06.png">
 
 
-<img src="img/tc_fde_07.png">
+<img src="img/vc_fde_07.png">
 
 
-<img src="img/tc_fde_08.png">
+<img src="img/vc_fde_07a.png">
 
 
-<img src="img/tc_fde_09.png">
+<img src="img/vc_fde_08.png">
 
 
-<img src="img/tc_fde_10.png">
+<img src="img/vc_fde_09.png">
 
 
-<img src="img/tc_fde_12.png">
+<img src="img/vc_fde_10.png">
 
 
-<img src="img/tc_fde_13.png">
+<img src="img/vc_fde_12.png">
 
 
-<img src="img/tc_fde_14.png">
+<img src="img/vc_fde_13.png">
 
 
-<img src="img/tc_fde_15.png">
+<img src="img/vc_fde_14.png">
 
 
-<img src="img/tc_fde_16.png">
+<img src="img/vc_fde_15.png">
 
 
-<img src="img/tc_fde_17.png">
+<img src="img/vc_fde_16.png">
 
 
-<img src="img/tc_fde_19.png">
+<img src="img/vc_fde_17.png">
 
 
-<img src="img/tc_fde_20.png">
+<img src="img/vc_fde_19.png">
 
 
-<img src="img/tc_fde_21.png">
+<img src="img/vc_fde_20.png">
 
 
-<img src="img/tc_fde_22.png">
+<img src="img/vc_fde_21.png">
+
+
+<img src="img/vc_fde_22.png">
 
 
 ## FileVault
