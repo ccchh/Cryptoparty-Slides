@@ -1,5 +1,5 @@
-http://slides.cryptoparty-hamburg.de/master/<br /><br />
-Download: http://cryptoparty-hamburg.de/download<br /><br />
+https://slides.cryptoparty-hamburg.de/master/<br /><br />
+Download: https://cryptoparty-hamburg.de/download<br /><br />
 
 
 <img src="./img/no-photo.jpg" /><br />
