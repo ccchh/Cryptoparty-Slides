@@ -17,8 +17,9 @@ Angehörige der Exekutive (Personen mit Meldepflicht gem. §152 StPO) sind in di
 * Das Internet
 * Passwörter
 * <b>Mailverschlüsselung</b>
+* <b>Verschlüsselte Container</b>
 * <b>Festplattenverschlüsselung</b>
-* <b>Chatverschlüsselung</b>
+* Chatverschlüsselung
 * Über Smartphones und Tablets
 * Fragen und Antworten
 
