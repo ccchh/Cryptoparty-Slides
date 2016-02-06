@@ -246,77 +246,6 @@ Bitte installieren<br>
 ## Key-Signing/Trust-Level
 
 
-
-# Dateiverschlüsselung mit GPG
-
-
-# Windows mit GPG4Win
-
-
-# <img src="img/GpgWinCrypt01.PNG">
-
-
-# <img src="img/GpgWinCrypt02.PNG">
-
-
-# <img src="img/GpgWinCrypt03.PNG">
-
-
-# <img src="img/GpgWinCrypt04.PNG">
-
-
-# <img src="img/GpgWinCrypt05.PNG">
-
-
-# <img src="img/GpgWinCrypt06.PNG">
-
-
-# <img src="img/GpgWinCrypt07.PNG">
-
-
-# <img src="img/GpgWinCrypt08.PNG">
-
-
-# <img src="img/GpgWinCrypt09.PNG">
-
-
-# <img src="img/GpgWinCrypt10.PNG">
-
-
-# <img src="img/GpgWinCrypt11.PNG">
-
-
-# <img src="img/GpgWinCrypt12.PNG">
-
-
-# <img src="img/GpgWinCrypt13.PNG">
-
-
-# <img src="img/GpgWinCrypt14.PNG">
-
-
-# <img src="img/GpgWinCrypt15.PNG">
-
-
-# <img src="img/GpgWinCrypt16.PNG">
-
-
-# <img src="img/GpgWinCrypt17.PNG">
-
-
-# <img src="img/GpgWinCrypt18.PNG">
-
-
-# <img src="img/GpgWinCrypt19.PNG">
-
-
-# <img src="img/GpgWinCrypt20.PNG">
-
-
-# <img src="img/GpgWinCrypt21.PNG">
-
-
-
 # Verschlüsselte
 # Container
 
@@ -402,8 +331,6 @@ Bitte installieren<br>
 
 ## VeraCrypt
 ### Windows
-
-### Benötigt einen CD-Brenner für Rescue-CD!
 
 
 <img src="img/vc_fde_01.png">
