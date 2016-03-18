@@ -110,46 +110,7 @@ Angehörige der Exekutive (Personen mit Meldepflicht gem. §152 StPO) sind in di
 <img src="img/KP03.png">
 
 
-<img src="img/KP09.png">
-
-
-<img src="img/KP10.png">
-
-
-<img src="img/KP11.png">
-
-
-<img src="img/KP12.png">
-
-
-<img src="img/KP13.png">
-
-
-<img src="img/KP14.png">
-
-
-<img src="img/KP15.png">
-
-
-<img src="img/KP16.png">
-
-
-<img src="img/KP17.png">
-
-
-<img src="img/KP18.png">
-
-
-<img src="img/KP19.png">
-
-
-<img src="img/KP20.png">
-
-
-<img src="img/KP21.JPG">
-
-
-<img src="img/KP22.JPG">
+<img src="img/KP04.png">
 
 
 ### Sichern der ".kdb"-Datei
