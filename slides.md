@@ -81,6 +81,9 @@ Angehörige der Exekutive (Personen mit Meldepflicht gem. §152 StPO) sind in di
 10 Zeichen: 2108 Jahre
 
 
+<img src="img/xkcd_password_strength.png">
+
+
 * 1Password (Mac)
 * Keepass (Mac, Win, Linux)
 * OS X Schlüsselbund (Mac)
