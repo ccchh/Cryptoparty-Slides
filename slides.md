@@ -68,7 +68,7 @@ Angehörige der Exekutive (Personen mit Meldepflicht gem. §152 StPO) sind in di
 # Passwörter
 
 
-## Nur ein langes Passwort ist ein gutes Passwort
+## Nur ein komplexes Passwort ist ein gutes Passwort
 
 
 <span style="font-size:60px;">A-Z + a-z (52 Zeichen)</span><br>
@@ -85,13 +85,13 @@ Angehörige der Exekutive (Personen mit Meldepflicht gem. §152 StPO) sind in di
 
 
 * 1Password (Mac)
-* Keepass (Mac, Win, Linux)
+* KeepassX2 (Mac, Win, Linux)
 * OS X Schlüsselbund (Mac)
 * Seahorse (Linux)
 * USB-Sticks 
 
 
-## KeepassX
+## KeepassX2
 
 ### Program zum verwalten von Passwörtern für Win, Mac, Linux
 
