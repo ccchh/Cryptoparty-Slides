@@ -105,21 +105,6 @@ Angehörige der Exekutive (Personen mit Meldepflicht gem. §152 StPO) sind in di
 <img src="img/KP03.png">
 
 
-<img src="img/KP04.png">
-
-
-<img src="img/KP05.png">
-
-
-<img src="img/KP06.png">
-
-
-<img src="img/KP07.png">
-
-
-<img src="img/KP08.png">
-
-
 <img src="img/KP09.png">
 
 
