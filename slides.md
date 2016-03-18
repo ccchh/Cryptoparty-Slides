@@ -113,10 +113,54 @@ Angehörige der Exekutive (Personen mit Meldepflicht gem. §152 StPO) sind in di
 <img src="img/KP04.png">
 
 
+<img src="img/KP05.png">
+
+
+<img src="img/KP06.png">
+
+
+<img src="img/KP07.png">
+
+
+<img src="img/KP08.png">
+
+
+<img src="img/KP09.png">
+
+
+<img src="img/KP10.png">
+
+
+<img src="img/KP11.png">
+
+
+<img src="img/KP12.png">
+
+
+<img src="img/KP13.png">
+
+
+<img src="img/KP14.png">
+
+
 ### Sichern der ".kdb"-Datei
 Wird die ".kdb"-Datei verloren, sind die Passwörter weg.<br />
 Gleiches gilt bei Verlust des Passworts.
 
+
+<img src="img/KP15.png">
+
+
+<img src="img/KP16.png">
+
+
+<img src="img/KP17.png">
+
+
+### Fragen?
+Es gibt nur eine dumme Frage:
+
+Die, die man nicht gefragt hat ;-)
 
 
 # E-Mail-
