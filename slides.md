@@ -68,7 +68,7 @@ Angehörige der Exekutive (Personen mit Meldepflicht gem. §152 StPO) sind in di
 # Passwörter
 
 
-## Nur ein langes Passwort ist ein gutes Passwort
+## Nur ein komplexes Passwort ist ein gutes Passwort
 
 
 <span style="font-size:60px;">A-Z + a-z (52 Zeichen)</span><br>
@@ -81,16 +81,21 @@ Angehörige der Exekutive (Personen mit Meldepflicht gem. §152 StPO) sind in di
 10 Zeichen: 2108 Jahre
 
 
+<img src="img/xkcd_password_strength.png">
+
+
 * 1Password (Mac)
-* Keepass (Mac, Win, Linux)
+* KeepassX2 (Mac, Win, Linux)
 * OS X Schlüsselbund (Mac)
 * Seahorse (Linux)
 * USB-Sticks 
 
 
-## KeepassX
+## KeepassX2
 
-### Program zum verwalten von Passwörtern für Win, Mac, Linux
+### Program zum verwalten von Passwörtern für
+
+### Win, Mac, Linux
 
 
 <img src="img/KP00.png">
@@ -138,6 +143,11 @@ Angehörige der Exekutive (Personen mit Meldepflicht gem. §152 StPO) sind in di
 <img src="img/KP14.png">
 
 
+### Sichern der ".kdb"-Datei
+Wird die ".kdb"-Datei verloren, sind die Passwörter weg.<br />
+Gleiches gilt bei Verlust des Passworts.
+
+
 <img src="img/KP15.png">
 
 
@@ -147,25 +157,10 @@ Angehörige der Exekutive (Personen mit Meldepflicht gem. §152 StPO) sind in di
 <img src="img/KP17.png">
 
 
-<img src="img/KP18.png">
+### Fragen?
+Es gibt nur eine dumme Frage:
 
-
-<img src="img/KP19.png">
-
-
-<img src="img/KP20.png">
-
-
-<img src="img/KP21.JPG">
-
-
-<img src="img/KP22.JPG">
-
-
-### Sichern der ".kdb"-Datei
-Wird die ".kdb"-Datei verloren, sind die Passwörter weg.<br />
-Gleiches gilt bei Verlust des Passworts.
-
+Die, die man nicht gefragt hat ;-)
 
 
 # E-Mail-
